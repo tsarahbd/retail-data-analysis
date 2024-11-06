@@ -10,4 +10,4 @@ As a marketing analyst, I want to segment customers based on demographic informa
 ## Regional Sales Performance Analysis
 
 As a regional sales director, I want to analyze sales performance by geographic location (city, state and country) to identify regions that underperform. I used Excel for data cleaning and preparation to demonstrate **VLOOKUP**, **pivot tables**, and **conditional formatting**. I want to focus more on Germany for this Analysis and so I used **VLOOKUP** to correct the incorrect names for States as given in the dataset. 
-To visualise *regional sales performance and trends*, **Charts** are used. An interactive dashboard is then made to display key metrics like total sales by region, sales growth, and top-performing products.
+To visualise *regional sales performance*, **Charts** are used. An interactive dashboard is then made to display key metrics like total sales by region. **Slicing** is performed to filter country, state and city in the dashboard to identify the region with high performance and low performance.

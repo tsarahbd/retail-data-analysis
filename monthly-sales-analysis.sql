@@ -42,7 +42,7 @@ SET year = YEAR(sale_date),
 ALTER TABLE sales_data
 MODIFY sales_amount DECIMAL(10,2);
     
--- aggregate monthly sales
+-- Summarize monthly sales
 SELECT
 	year,
     month,

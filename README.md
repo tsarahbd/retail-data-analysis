@@ -1,6 +1,6 @@
 # Retail Data Analysis
 
-A dataset of **Retail** Data is used in this project. The dataset is used in *Customer Segmentation for Target Marketing*,*Regional Sales Performance Analysis*, *Monthly Sales Trend* and *Product Popularity by Category & Brand*. I have used various tools to do these analyses. My objective is to work with **Jupyter Notebook**, **Python**, **Pandas**, **Matplotlib**, **Seaborn**, **Excel**, **MySQL**, **Power BI** and **Tableau** for this range of analysis.
+A dataset of **Retail** Data is used in this project. The dataset is used in *Customer Segmentation for Target Marketing*, *Regional Sales Performance Analysis*, *Monthly Sales Trend* and *Product Popularity by Category & Brand*. I have used various tools to do these analyses. My objective is to work with **Jupyter Notebook**, **Python**, **Pandas**, **Matplotlib**, **Seaborn**, **Excel**, **MySQL**, **Power BI** and **Tableau** for this range of analysis.
 
 
 ## Customer Segmentation for Targeted Marketing

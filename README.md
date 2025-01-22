@@ -5,7 +5,7 @@ A dataset of **Retail** Data is used in this project. The dataset is used in *Cu
 
 ## Customer Segmentation for Targeted Marketing
 
-As a marketing analyst, I want to segment customers based on demographic information (age, gender, income) and purchasing behavior (total purchases, total amount spent) so that I can tailor marketing campaigns. I used **Jupyter Notebook** to work with **Pandas** to clean the data and create *dataframes* to work with segmentation. I have used **FacetGrid** to show the purchase behaviour of male and female high spenders on different income levels. I used **Grouped Bar Chart** to show the most high spenders in different age group and income level. Lastly, I used **Stacked Bar Chart** to show the high spenders based on gender and age group.
+As a marketing analyst, I want to segment customers based on demographic information (age, gender, income) and purchasing behavior (total purchases, total amount spent) so that I can tailor marketing campaigns. I used **Jupyter Notebook** for working with **Pandas** to clean the data and create *dataframes* for the purpose of segmentation. I have used **FacetGrid** to show the purchase behaviour of male and female high spenders on different income levels. I used **Grouped Bar Chart** to show the most high spenders in different age group and income level. Lastly, I used **Stacked Bar Chart** to show the high spenders based on gender and age group.
 
 ## Regional Sales Performance Analysis
 

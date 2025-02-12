@@ -15,3 +15,10 @@ To visualise *regional sales performance*, **Charts** are used. An interactive d
 ## Monthly Sales Trend Analysis
 
 As a sales manager, I want to analyze monthly sales trend of top-selling products. To do this, I used MySQL to import data and perform *data cleaning*. I wrote SQL queries to do the data analysis. I have used *data aggregation*, *date and time functions*, *conditional filtering*, *ranking and window functions*, *subqueries* and *sorting & ordering* to prepare a table showing top 3 countries with highest selling products by month. 
+
+## Exploratory Data Analysis for Price Performance
+
+As a sales analyst, I want to find out the best selling products and the most profitable product categories based on the customers ordering from Germany. 
+I performed an **Exploratory Data Analysis (EDA)** on a retail dataset to evaluate product performance using **Python (Jupyter Notebook)**. The dataset included customer details, product purchases, revenue, and reviews.
+*Data Cleaning & Preparation* was done with **Pandas** and **NumPy** where I handled missing values, removed duplicates, and converted data types.
+In EDA *groupby()*, *aggregation*, and *sorting* was used to analyze top-performing products and categories.

@@ -18,7 +18,7 @@ As a sales manager, I want to analyze monthly sales trend of top-selling product
 
 ## Exploratory Data Analysis for Price Performance
 
-As a sales analyst, I want to find out the best selling products and the most profitable product categories based on the customers ordering from Germany. 
-I performed an **Exploratory Data Analysis (EDA)** on a retail dataset to evaluate product performance using **Python (Jupyter Notebook)**. The dataset included customer details, product purchases, revenue, and reviews.
+As a sales analyst, I want to find out the best selling and most profitable product categories based on the customers ordering from Germany. 
+I performed an **Exploratory Data Analysis (EDA)** on the retail dataset to evaluate product performance using **Python (Jupyter Notebook)**. The dataset included customer details, product purchases, revenue, and reviews. I have filtered out data related to product purchases and revenue to do this analysis.
 *Data Cleaning & Preparation* was done with **Pandas** and **NumPy** where I handled missing values, removed duplicates, and converted data types.
 In EDA *groupby()*, *aggregation*, and *sorting* was used to analyze top-performing products and categories.

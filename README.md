@@ -22,3 +22,8 @@ As a sales analyst, I want to find out the best selling and most profitable prod
 I performed an **Exploratory Data Analysis (EDA)** on the retail dataset to evaluate product performance using **Python (Jupyter Notebook)**. The dataset included customer details, product purchases, revenue, and reviews. I have filtered out data related to product purchases and revenue to do this analysis.
 *Data Cleaning & Preparation* was done with **Pandas** and **NumPy** where I handled missing values, removed duplicates, and converted data types.
 In EDA *groupby()*, *aggregation*, and *sorting* was used to analyze top-performing products and categories.
+
+## Customer Order & Payments Insights Dashboard in Tableau
+
+To understand the customer order status namely pending, processing, shipping and delivered, I created a stacked bar chart in Tableau sheet. Payment methods used for the orders are cash, credit card, debit card and paypal. This is represented in a pie chart in a second sheet. 
+On the third sheet, a bar chart represents the shipping method chosen by the customers namely express, same day and standard. Lastly, I created a dashboard to represent this insights visualisation.

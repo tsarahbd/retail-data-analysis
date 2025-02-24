@@ -27,3 +27,7 @@ In EDA *groupby()*, *aggregation*, and *sorting* was used to analyze top-perform
 
 To understand the customer order status namely pending, processing, shipping and delivered, I created a stacked bar chart in Tableau sheet. Payment methods used for the orders are cash, credit card, debit card and paypal. This is represented in a pie chart in a second sheet. 
 On the third sheet, a bar chart represents the shipping method chosen by the customers namely express, same day and standard. Lastly, I created a dashboard to represent this insights visualisation.
+
+## Interactive Executive Dashboard for Retail Analytics in Power BI
+
+I designed and developed an Interactive Executive Dashboard in Power BI to analyze retail business performance. This dashboard provides key insights into customer segmentation, sales trends, order & payment insights, and product performance.
